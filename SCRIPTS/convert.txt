@@ -1,0 +1,1 @@
+SELECT CONVERT(CM_PESSOAL_DESCRICAO USING utf8) FROM contrateme.cm_pessoal

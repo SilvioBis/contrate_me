@@ -1,0 +1,4 @@
+item [1]
+	Verificação de 24hrs para o cadastro de empresas
+	 - Criar flags
+	 - criar uma pagina para retornar a pagina de login 
